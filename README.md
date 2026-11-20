@@ -50,7 +50,7 @@ Swiggy-Landing-Page/
 1. Clone the repository:
 
    ```bash
-   git clone <your-repository-link>
+   git clone <https://github.com/prakarti777/Swiggy-Landing-Page>
    ```
 
 2. Open the project folder.
